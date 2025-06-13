@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"  As User able to login, view dashboard, and perform transactions","18986","Customer perform transactions","","Sat Jun 14 00:41:48 MYT 2025","passed","Sat Jun 14 00:42:07 MYT 2025","","User Making Transaction","Customer perform transactions",""
+"  As a Bank Manager
+  I want to be able to add new customers and delete customer","42898","Bank Manager Add and Delete Multiple Customers","","Sat Jun 14 00:41:05 MYT 2025","passed","Sat Jun 14 00:41:47 MYT 2025","","Bank Manager Actions","Bank Manager Add and Delete Multiple Customers",""

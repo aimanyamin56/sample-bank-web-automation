@@ -1,0 +1,1 @@
+[{"uid":"773be38b3fcaa903","name":"Bank Manager Add and Delete Multiple Customers","time":{"start":1749832865039,"stop":1749832907937,"duration":42898},"status":"passed","severity":"normal"},{"uid":"7c178f16658daf3a","name":"Customer perform transactions","time":{"start":1749832908107,"stop":1749832927093,"duration":18986},"status":"passed","severity":"normal"}]

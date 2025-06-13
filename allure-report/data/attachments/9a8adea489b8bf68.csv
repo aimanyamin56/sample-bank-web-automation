@@ -1,0 +1,8 @@
+type	amount
+Credit	50000
+Debit	3000
+Debit	2000
+Credit	5000
+Debit	10000
+Debit	15000
+Credit	1500
