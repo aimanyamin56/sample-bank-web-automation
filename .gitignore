@@ -1,0 +1,22 @@
+# Maven target directory
+/target/
+!/target/allure-report/
+
+allure-results/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Other
+*.class
